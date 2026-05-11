@@ -3,7 +3,7 @@
 ### Bacharel em Ciência da Computação | MBA em Data Science & IA na FIAP
 **`Cientista de Dados`**
 
-Tenho 25 anos, sou natural de Jundiaí - SP e apaixonado por transformar dados em decisões inteligentes. Com formação sólida pela **UniAnchieta**, hoje foco minha carreira na intersecção entre **Inteligência Artificial** e **Estratégia de Negócios**.
+Tenho 26 anos, sou natural de Jundiaí - SP e apaixonado por transformar dados em decisões inteligentes. Com formação sólida pela **UniAnchieta**, hoje foco minha carreira na intersecção entre **Inteligência Artificial** e **Estratégia de Negócios**.
 
 ---
 
