@@ -1,58 +1,39 @@
-# Olá, eu sou o Guilherme Torres Guedes 👋
+# Olá! Eu sou o Guilherme Torres 👋
+### Cientista de Dados Jr | Analista de Dados | SQL Avançado & Modelagem Preditiva
 
-### Bacharel em Ciência da Computação | MBA em Data Science & IA na FIAP
-**`Cientista de Dados`**
+📍 Jundiaí - SP | 🎓 **MBA em Ciência de Dados e IA (FIAP)** & **Bacharel em Ciência da Computação (UniAnchieta)**
 
-Tenho 26 anos, sou natural de Jundiaí - SP e apaixonado por transformar dados em decisões inteligentes. Com formação sólida pela **UniAnchieta**, hoje foco minha carreira na intersecção entre **Inteligência Artificial** e **Estratégia de Negócios**.
+Profissional de Dados com **6 anos de experiência** sólida em banco de dados (SQL Server e MySQL), extração, consolidação e validação de grandes volumes de dados, aliado à construção de modelos de **Machine Learning**, **Análise Exploratória (EDA)** e acompanhamento estratégico de **KPIs**. 
 
----
-
-### 🛠️ Tecnologias e Habilidades
-
-#### 🐍 Linguagens & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 📊 Ciência de Dados & IA
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### 🛠️ Ferramentas & Processos
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-* **Outros:** Experiência com Ferramentas de Ticketing (GLPI, MySuite).
+Focado em transformar dados complexos em soluções de negócio, simulações de cenários e modelos preditivos (Risco de Crédito, Segmentação de Clientes, Propensão e Retenção/Churn).
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Principais Competências & Ferramentas
 
-#### 🧠 [Deep-Learning](https://github.com/ggtorres/Deep-Learning)
-Implementação de modelos baseados em Redes Neurais para resolução de problemas complexos de classificação e predição.
-* **Foco:** Arquiteturas neurais, otimização de hiperparâmetros e processamento de dados em camadas profundas.
-
-#### 🤖 [Machine-Learning](https://github.com/ggtorres/Machine-Learning)
-Repositório dedicado à aplicação de algoritmos clássicos de aprendizado de máquina para extração de insights e previsões.
-* **Foco:** Modelos de Regressão, Classificação e Clustering aplicados a contextos de negócio.
-
-#### 🏗️ [Feature-Engineering](https://github.com/ggtorres/Feature-Engineering)
-A base de um bom modelo de IA. Este repositório foca em técnicas avançadas de preparação e transformação de dados.
-* **Foco:** Limpeza, tratamento de outliers e seleção de atributos relevantes para aumentar a performance dos modelos.
+* **Linguagens & Análise de Dados:** Python (`pandas`, `numpy`, `scipy`) | SQL Avançado (`T-SQL`, `MySQL`) | R
+* **Machine Learning & Modelagem:** `scikit-learn` | Classificação (Credit Score, Propensão, Churn) | Regressão | Clustering (`K-Means`) | Feature Engineering | Validação Cruzada & Tuning de Hiperparâmetros
+* **Engenharia & Bancos de Dados:** Pipelines ETL (Python & SQL) | Modelagem Relacional | Otimização de Queries e Índices | Stored Procedures
+* **Visualização, BI & Cloud:** Power BI | Excel Avançado | `matplotlib` & `seaborn` | Azure Machine Learning | Git & GitHub
 
 ---
 
-### 🎓 Formação Acadêmica
+### 📌 Projetos em Destaque (Portfólio)
 
-* **MBA em Data Science & IA** – FIAP (Em andamento)
-* **Bacharelado em Ciência da Computação** – UniAnchieta
+*(Dica: substitua os links abaixo pelas URLs exatas das pastas/repositórios correspondentes no seu GitHub)*
+
+#### 💳 [1. Modelagem de Risco de Crédito & Segmentação de Clientes (Credit Score)](https://github.com/ggtorres/Machine-Learning)
+* **Objetivo de Negócio:** Apoiar políticas de concessão de crédito e identificação de perfis de risco e rentabilidade.
+* **Solução Técnica:** Análise exploratória (EDA), tratamento de *outliers*, preparação de variáveis (*feature engineering*), modelagem preditiva com **Decision Trees** e **Random Forest** para classificação de *Credit Score*, além de clusterização de clientes com **K-Means**.
+
+#### 🤖 [2. Machine Learning Aplicado & Experimentação de Modelos](https://github.com/ggtorres/Machine-Learning)
+* **Objetivo de Negócio:** Construção e validação de pipelines preditivos para problemas de classificação e regressão.
+* **Solução Técnica:** Implementação de modelos supervisionados com `scikit-learn`, aplicação de validação cruzada (*Cross-Validation*), avaliação de métricas de performance e *tuning* de hiperparâmetros (incluindo experimentos estruturados no Azure ML).
+
+#### 🧠 [3. Deep Learning, NLP & Classificação de Textos / Agentes IA](https://github.com/ggtorres/Deep-Learning)
+* **Objetivo de Negócio:** Automação de triagem de chamados/tickets, categorização de produtos e simulações de decisão.
+* **Solução Técnica:** Normalização textual, vetorização (`Bag of Words`, `TF-IDF`, *Embeddings*), redes neurais, pipelines de RAG (*Retrieval-Augmented Generation*) com `LangChain` e experimentos com *Reinforcement Learning* aplicado a ativos financeiros.
 
 ---
 
-### 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-torres-guedes/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ggtorres)
-
----
-
-> *"Os dados são o novo petróleo, mas a IA é a refinaria."*
+### 📊 Estatísticas &
