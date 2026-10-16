@@ -36,4 +36,7 @@ Focado em transformar dados complexos em soluções de negócio, simulações de
 
 ---
 
-### 📊 Estatísticas &
+### 📊 Estatísticas & Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-torres-guedes)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guitorresg@gmail.com)
